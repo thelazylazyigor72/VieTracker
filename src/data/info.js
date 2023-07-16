@@ -19,7 +19,7 @@ const info = [
 	{
 		id: uuidv4(),
 		description:
-			"Aslo this project made w/ React, React Router and Tailwind. Of course that's not all. More stuff you can always observe here - click.",
+			"Aslo this project made w/ React, React Router and Tailwind. Of course that's not all. More stuff you can always observe here - https://github.com/thelazylazyigor72/VieTracker .",
 	},
 	{
 		id: uuidv4(),

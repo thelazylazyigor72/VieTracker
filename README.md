@@ -56,10 +56,6 @@ As a timekiller or like for fun ? Bihh im busy ah)
 - ngl, the actual usage of a ? operator, i mean i knew it before but this time it came really handy
 - the difficulty to change a complex-ish states (useState)
 
-## How it looks actually
-
-**gif!!!!!!!!!!!!!!!!!**
-
 ## How to start a project locally
 
 first of, u obviously need to install all the packages and you can make it w/
